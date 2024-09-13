@@ -1,1 +1,3 @@
 # SampleDetectorFTC
+
+Use yellow.py
